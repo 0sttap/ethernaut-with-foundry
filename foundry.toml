@@ -10,6 +10,6 @@ remappings = [
     "lib-src/=lib/forge-std/src/"
 ]
 
-eth_rpc_url = 'https://rpc.ankr.com/polygon_mumbai'
+eth_rpc_url = 'https://ethereum-sepolia.publicnode.com'
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
